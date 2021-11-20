@@ -1,8 +1,15 @@
 franciscoj.delgado.leal franciscoj.delgado.leal@gmail.com
 Ernesto1ies1sotero  ernesto.valerotor@gmail.com
 rubperlop rubenperezlopez@iessoterohernandez.es
+<<<<<<< HEAD
 ÁlvaroLimónFlor alvarolimonflor@gmail.com
 srdplas cabrerozayas@gmail.com
 Rubiks aledelarosa2@gmail.com
+aureliors aureliorodriguezsanchez@iessoterohernandez.es
 
+=======
+AlvaroLiF alvarolimonflor@gmail.com
+srdplas (guapo) cabrerozayas@gmail.com
+Rubiks aledelarosa2@gmail.com
+>>>>>>> b5809e21e233510093e5a8f4c11438c0ba7fa5dd
 
